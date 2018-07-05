@@ -2,8 +2,8 @@
 
 # 关于XML解析存在的安全问题, 所有请把xml替换成lxml
 # 相关说明
-[微信官方XML解析存在的安全问题说明](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=23_5)
-[xml.etree.ElementTree说明](https://docs.python.org/2/library/xml.etree.elementtree.html)
+ - [微信官方XML解析存在的安全问题说明](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=23_5)
+ - [xml.etree.ElementTree说明](https://docs.python.org/2/library/xml.etree.elementtree.html)
 
 ## lxml代码段
 ```
